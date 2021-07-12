@@ -1,0 +1,22 @@
+h1{
+  background: yellow;
+  color: blue;
+
+}
+
+body{
+  background: #00CED1;
+  color: red;
+
+}
+.jumbotron{
+  margin-top: 200px;
+  margin-bottom: 300px;
+}
+h2{
+  background-color: white;
+  color: blue;
+}
+.a{
+  text-align: center;
+}
